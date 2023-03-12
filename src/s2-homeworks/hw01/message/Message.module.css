@@ -1,0 +1,38 @@
+.message {
+    display: flex;
+    justify-content: right;
+    margin: 20px 30px;
+}
+
+.imageAndText {
+    background-color: #0066CC;
+
+}
+
+.imageAndText img {
+    display: flex;
+    justify-content: right;
+    background-color: white;
+    margin: 10px;
+}
+
+.text {
+    color: white;
+}
+
+.text:after {
+
+}
+
+.name {
+    color: white;
+    font-weight: 600;
+}
+
+.messageText {
+
+}
+
+.time {
+
+}
