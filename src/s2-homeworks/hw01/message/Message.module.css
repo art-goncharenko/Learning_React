@@ -12,13 +12,14 @@
 
 .imageAndText img {
     display: flex;
-    justify-content: right;
+    height: 50px;
     background-color: white;
     margin: 10px;
 }
 
 .text {
     color: white;
+    padding: 10px;
 }
 
 .text:after {
@@ -26,6 +27,8 @@
 }
 
 .name {
+    display: flex;
+    justify-content: right;
     color: white;
     font-weight: 600;
 }

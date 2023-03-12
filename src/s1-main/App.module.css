@@ -7,5 +7,8 @@
 }
 
 .hwTitle {
-
+    margin: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-bottom: #D9D9D9 1px solid;
 }
